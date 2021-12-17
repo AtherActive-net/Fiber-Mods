@@ -1,6 +1,7 @@
 {
     "name": "mod_name",
     "desc": "Insert a desc here",
+    "img_link" : "Image_link",
     "link": "Download link",
     "tags": "tag1 tag2 tag3 tag4",
     "maxgameversion": 118,
