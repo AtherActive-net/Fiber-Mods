@@ -1,17 +1,17 @@
 {
-    "name": "Dupe Mod",
-    "desc": "A dupe mod that has no purpose.",
+    "name": "Dupe Plugin",
+    "desc": "A dupe plugin that has no purpose.",
     "img_link" : "https://dev.atherdev.nl/img/banner.png",
     "link": "dev.atherdev.nl",
-    "tags": "client dupe misc",
+    "tags": "server dupe misc",
     "maxgameversion": 118,
     "mingameversion": 116,
     "release_date": "2021-12-01",
     "author": "Saltylelele",
-    "uploader": "Your Name Here!",
+    "uploader": "Saltylelele",
 
     "mc": {
-        "loader": "forge"
+        "loader": "plugin"
     }
 
 }
